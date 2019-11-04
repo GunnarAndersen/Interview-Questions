@@ -1,0 +1,7 @@
+C:\Users\Gunnar\source\repos\InterviewQuestions3\obj\Debug\InterviewQuestions3.csprojAssemblyReference.cache
+C:\Users\Gunnar\source\repos\InterviewQuestions3\obj\Debug\InterviewQuestions3.csproj.CoreCompileInputs.cache
+C:\Users\Gunnar\source\repos\InterviewQuestions3\bin\Debug\InterviewQuestions3.exe.config
+C:\Users\Gunnar\source\repos\InterviewQuestions3\bin\Debug\InterviewQuestions3.exe
+C:\Users\Gunnar\source\repos\InterviewQuestions3\bin\Debug\InterviewQuestions3.pdb
+C:\Users\Gunnar\source\repos\InterviewQuestions3\obj\Debug\InterviewQuestions3.exe
+C:\Users\Gunnar\source\repos\InterviewQuestions3\obj\Debug\InterviewQuestions3.pdb
